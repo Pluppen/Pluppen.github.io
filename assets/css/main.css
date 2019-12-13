@@ -66,9 +66,12 @@ a {
       font-family: 'Montserrat', sans-serif;
     }
   
-    nav ul {
+    .floated-right {
       text-align: right;
       padding-right: 30px;
+    }
+
+    nav ul {
       list-style: none;
       font-weight: bold;
     }
